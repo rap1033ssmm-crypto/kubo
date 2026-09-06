@@ -1,4 +1,5 @@
-module github.com/ipfs/kubo
+module github.com/rap1033ssmm-crypto/kubo
+
 
 go 1.26.5
 
